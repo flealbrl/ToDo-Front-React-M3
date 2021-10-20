@@ -1,0 +1,9 @@
+.home {
+  flex: 1;
+}
+
+h1.text-center{
+  padding-top: 2rem;
+  font-size: 4rem;
+  color: rgb(0, 0, 0);
+}

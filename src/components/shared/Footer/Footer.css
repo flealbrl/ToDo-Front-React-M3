@@ -1,0 +1,20 @@
+div.container{
+    font-size: 1.3rem;
+}
+
+p.text-center{
+    padding: 1rem;
+    background-color: rgb(76, 146, 250);
+    border-radius: 10px 30px;
+}
+
+p{
+    color: white;
+    font-weight: 500;
+}
+
+a.link-git{
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
